@@ -1,0 +1,2 @@
+# BinarysearchTree
+Binary algorithm
